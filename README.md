@@ -1,4 +1,4 @@
-<h1> align="Hello world!"</h1>
+<h1> align="centre">Hello world!</h1>
 
 <p align="center">
   <img src="batman.gif" width="800" height= "335">
