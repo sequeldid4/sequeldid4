@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+TheSequel+aka+Faizan;AI+Developer;Python+Builder;Welcome+amigos" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+amigos+I'm+The+Sequel;aka+Faizan;AI+Developer;Python+Builder;" />
 </p>
