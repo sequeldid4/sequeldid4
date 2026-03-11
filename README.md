@@ -2,7 +2,10 @@
 
 <p align="center">
   <img src="batman.gif" width="800" height= "335">
+</p>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=Welcome+amigos!;I'm+F*****;aka+Sequel;Falls+for...;Python/html+learning;Tech+exploring;Learning+AI+Development;bot/tools+development+learning;thats it;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&repeat=false&lines=Welcome+amigos!;I'm+******;aka+Sequel;Falls+for...;Python+building;Tech+exploring;Learning+AI+development;bot+development;...............;" />
+
 
 </p>
